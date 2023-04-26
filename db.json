@@ -1,27 +1,19 @@
 {
-	"tasks": [{
+	"properties": [{
 			"id": 1,
-			"title": "Task 1",
-			"description": "Description for Task 1",
-			"location": "Valletta",
-			"date": "1st of Jan",
-			"time": "12:00"
+			"type": "House of Character",
+			"details": "This house of character is tucked away in an alley................",
+			"price": 50000,
+			"town": "Paola",
+			"finished": false
 		},
 		{
 			"id": 2,
-			"title": "Task 2",
-			"description": "Description for Task 2",
-			"location": "Valletta",
-			"date": "1st of Jan",
-			"time": "12:00"
-		},
-		{
-			"id": 3,
-			"title": "Task 3",
-			"description": "Description for Task 3",
-			"location": "Valletta",
-			"date": "1st of Jan",
-			"time": "12:00"
+			"type": "Apartment",
+			"details": "This apartment is finished and fully furnished................",
+			"price": 50000,
+			"town": "Paola",
+			"finished": false
 		}
 	]
 }
